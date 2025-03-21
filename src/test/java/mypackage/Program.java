@@ -3,7 +3,7 @@ package mypackage;
 public class Program {
 
 	public void Display() {
-		int a=10,b=20,c
+		int a=10,b=20,c;
 		c=a+b;
 		System.out.println("Add="+c);
 	}
